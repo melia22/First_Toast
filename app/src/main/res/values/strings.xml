@@ -2,6 +2,8 @@
     <string name="app_name">First Toast</string>
     <string name="button">TOAST</string>
     <string name="button2"> COUT</string>
+    <string name="textview">1</string>
+
 
 
 </resources>
